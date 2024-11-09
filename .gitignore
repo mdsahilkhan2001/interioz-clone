@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Vite build files
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+
+# Other files you want to exclude
+npm-debug.log
+yarn-error.log
